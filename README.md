@@ -1,11 +1,11 @@
 # email-sub-generator
-Generate a subject line based on the contents of email
+# Generate a subject line based on the contents of email
 
 
-Steps:
-# Create .env and set OPENAI_API_KEY=
-# Run pip install fastapi uvicorn openai python-dotenv
-# Run uvicorn instant:app --reload
+# Steps:
+# 1. Create .env and set OPENAI_API_KEY=
+# 2. Run pip install fastapi uvicorn openai python-dotenv
+# 3. Run uvicorn instant:app --reload
 
-# Open http://127.0.0.1:8000
-# And PLAY
+# 4. Open http://127.0.0.1:8000
+# 5. And PLAY
