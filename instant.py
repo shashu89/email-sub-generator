@@ -18,7 +18,7 @@ def home():
     <body style="font-family: Arial; max-width: 600px; margin: 50px auto; padding: 20px;">
         <h1>Email Subject Generator</h1>
         <textarea id="email" style="width: 100%; height: 150px; padding: 10px;" 
-                  placeholder="Paste your email body here..."></textarea>
+                  placeholder="Paste your email content here..."></textarea>
         <br><br>
         <button onclick="generate()" style="padding: 10px 20px; background: #007bff; color: white; border: none; cursor: pointer;">
             Generate Subject
