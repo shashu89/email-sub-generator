@@ -1,7 +1,7 @@
 # Generate a subject line based on the contents of email
 
 # Deployed on Vercel:
-# https://email-sub-generator.vercel.app/
+https://email-sub-generator.vercel.app/
 
 # To run locally:
 1. Create .env and set OPENAI_API_KEY=
